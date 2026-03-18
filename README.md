@@ -5,4 +5,4 @@ This project was developed as part of the WQ Labs – Air Quality (030) course, 
 Data Source → MongoDB (Docker) → Data Cleaning → ARIMA Model
           → Walk‑Forward Validation → Forecasting App → Performance Monitoring
 
-![](ARIMA Model.drawio.png)
+<img width="1023" height="482" alt="ARIMA Model drawio" src="https://github.com/user-attachments/assets/ee3c97d2-6bbc-4dd1-86be-14b43b58e2fe" />
