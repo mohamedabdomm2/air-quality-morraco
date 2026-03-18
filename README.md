@@ -1,2 +1,2 @@
 # air-quality-morraco
-![](Grid Searsh ARIMA.jpg)
+![](./Grid Searsh ARIMA.jpg)
