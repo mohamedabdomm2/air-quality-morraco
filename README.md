@@ -4,3 +4,5 @@ This project was developed as part of the WQ Labs – Air Quality (030) course, 
 ## Pipeline
 Data Source → MongoDB (Docker) → Data Cleaning → ARIMA Model
           → Walk‑Forward Validation → Forecasting App → Performance Monitoring
+
+![](ARIMA Model.drawio.png)
